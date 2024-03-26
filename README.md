@@ -1,1 +1,4 @@
-# zz-check-balance-main
+## Installation
+```bash
+npm zz-check-balance
+```
